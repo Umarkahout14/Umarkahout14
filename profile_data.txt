@@ -1,0 +1,78 @@
+# ============================================
+# GITHUB PROFILE DATA FILE
+# Generated for: Muhammad Umar Asghar
+# Username: Umarkahout14
+# ============================================
+
+[PROFILE]
+Name = Muhammad Umar Asghar
+Role = Artificial Intelligence Undergraduate
+Location = Not specified
+Focus = Machine Learning, Deep Learning, NLP, Computer Vision, Intelligent Automation
+
+[ABOUT]
+I am Muhammad Umar Asghar, an Artificial Intelligence undergraduate passionate about developing practical AI solutions using Machine Learning, Deep Learning, NLP, Computer Vision, and intelligent automation.
+I enjoy building end-to-end AI applications, from data processing and model development to web deployment, using technologies such as Python, Scikit-learn, TensorFlow, Flask, Django, and JavaScript.
+With a strong interest in Explainable AI, AI Governance, and Responsible AI, I strive to create transparent, reliable, and impactful intelligent systems while continuously learning and contributing to open-source projects.
+
+[SOCIALS]
+LinkedIn = https://www.linkedin.com/in/umar-asghar-kahout-89a6aa33a/
+GitHub = https://github.com/Umarkahout14
+
+[TECH_STACK]
+Core = Python, JavaScript, Java, C++, C
+ML_AI = TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
+Web = HTML5, CSS3, Flask, Django
+Cloud = AWS, Azure, Firebase, Vercel, Render
+Databases = MySQL, MongoDB, SQLite, Microsoft SQL Server
+DevOps = Git, GitHub, GitHub Actions
+Tools = Selenium, JWT
+
+[ANIMATED_TITLES]
+Title1 = AI Engineer
+Title2 = ML Developer
+Title3 = Full Stack AI
+Title4 = Open Source Contributor
+Title5 = Computer Vision Enthusiast
+
+[ASCII_ART]
+Lines = [
+    "  █████╗ ██╗     ███████╗██╗  ██╗",
+    " ██╔══██╗██║     ██╔════╝██║  ██║",
+    " ███████║██║     █████╗  ███████║",
+    " ██╔══██║██║     ██╔══╝  ██╔══██║",
+    " ██║  ██║███████╗███████╗██║  ██║",
+    " ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝"
+]
+
+[COLORS_DARK]
+Background = #030712
+Panel = #0F172A
+Border = rgba(255,255,255,0.08)
+TextPrimary = #F8FAFC
+TextMuted = #94A3B8
+Accent1 = #7C3AED
+Accent2 = #22D3EE
+Accent3 = #10B981
+ASCIIGradient = cyan-purple
+Glow = cyan + purple
+
+[COLORS_LIGHT]
+Background = #FFFFFF
+Panel = #F8FAFC
+Border = rgba(15,23,42,0.08)
+TextPrimary = #0F172A
+TextMuted = #475569
+Accent1 = #2563EB
+Accent2 = #06B6D4
+Accent3 = #10B981
+ASCIIGradient = blue-cyan
+Glow = softer than dark
+
+[STATS_URLS]
+GitHubStats = https://github-readme-stats.shion.dev/api?username=Umarkahout14&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+StreakStats = https://streak-stats.demolab.com/?user=Umarkahout14&theme=dark&hide_border=false
+TopLangs = https://github-readme-stats.shion.dev/api/top-langs/?username=Umarkahout14&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+Trophies = https://github-profile-trophy.vercel.app/?username=Umarkahout14&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4
+TopRepos = https://github-contributor-stats.vercel.app/api?username=Umarkahout14&limit=5&theme=dark&combine_all_yearly_contributions=true
+ProfileViews = https://komarev.com/ghpvc/?username=Umarkahout14&icon=0&color=0
