@@ -65,5 +65,5 @@ With a strong interest in Explainable AI, AI Governance, and Responsible AI, I s
   <img src="https://github-contributor-stats.vercel.app/api?username=Umarkahout14&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </p>
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Umarkahout14&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=Umarkahout14&color=blue" alt="Profile Views"/>
 </p>
